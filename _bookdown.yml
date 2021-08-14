@@ -1,0 +1,6 @@
+book_filename: "431-2021-syllabus"
+language:
+  ui:
+    chapter_name: "Section "
+delete_merged_file: true
+output_dir: "docs"
