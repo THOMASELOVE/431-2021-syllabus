@@ -42,51 +42,14 @@ The main course web site is found at https://thomaselove.github.io/431/.
 
 This includes everything you need for the course, including links to:
 
-- The 431 Syllabus (this document)
+- The [431 Syllabus](https://thomaselove.github.io/431-2021-syllabus/) (this document)
 - Dr. Love's [Course Notes](https://thomaselove.github.io/431-notes/)
-- The Course Calendar, which is the final word for all deadlines and assignments
-    - The Calendar also links to materials for each class, including presentation slides and announcements
-- Data (and Code) for the course's assignments, presentations, and notes
+- The [Course Calendar](https://thomaselove.github.io/431/calendar.html), which is the final word for all deadlines and assignments
+    - The [Calendar](https://thomaselove.github.io/431/calendar.html) also links to materials for each class, including presentation slides and announcements
+- [Data (and Code)](https://github.com/THOMASELOVE/431-data) for the course's assignments, presentations, and notes
 - Readings and Supplemental Materials that we'll review during the course
 - Our [Piazza discussion forum](https://piazza.com/case/fall2021/pqhs431/home) for questions and answers
 - Our [Canvas page](https://canvas.case.edu) for turning in assignments and downloading recordings.
-
-# Learning During a Pandemic
-
-The CWRU Return to Campus website is found at https://case.edu/return-to-campus/.
-
-Life is not "normal" right now. None of us are really okay. We're all just pretending.
-
-You most likely know people who have lost their jobs, have tested positive for COVID-19, have been hospitalized, or perhaps have even died. You all have increased (or possibly decreased) work responsibilities and increased  care responsibilities - you might be caring for extra people (young and/or old!) right now, and you might be facing uncertain job prospects.
-
-I'm fully committed to making sure that you learn everything you were hoping to learn from this class! I will make whatever accommodations I can to help you finish your labs, do well on your quizzes and projects, and learn and understand the class material. Under ordinary conditions, I am somewhat flexible and lenient with grading and course expectations when students face difficult challenges. Under pandemic conditions, that flexibility and leniency is intensified. If you tell me you're having trouble, I will not judge you or think less of you. I hope you'll extend me the same grace.
-
-You never owe me personal information about your health (mental or physical). You are always welcome to talk to me about things that you're going through, though. If I can't help you myself, I may know somebody who can.
-
-If you need extra help, or if you need more time with something, or if you feel like you're behind or not understanding everything, do not suffer in silence! Talk to us! We will work with you. I promise.
-
-I want you to learn lots of things from this class, but I primarily want you to stay healthy, balanced, and grounded during this crisis.
-
-Thanks to [Andrew Heiss](https://econf20.classes.andrewheiss.com/syllabus/#learning-during-a-pandemic) for a lot of the better words here.
-
-## Is COVID-19 part of the class?
-
-The answer is, essentially, no.
-
-Professor Love expects to provide some resources and reactions related to the news on COVID-19 and the presentation of visualizations and models for the pandemic. He may provide you with some links to outside resources, but 
-
-- we will use no COVID-19 data in the class slides or discussion or course notes for examples
-- nor will we consider any 431 projects that make use of COVID-19 data.
-
-### IN CASE OF EMERGENCY
-
-If an emergency arises that will keep you from timely completion of work that has a deadline, like a lab, minute paper, or the like, send an email directly to Dr. Love saying the following:
-
-> I have an emergency that will keep me from completing (*list things you're worried about completing*) in a timely fashion. I will contact you again when I am able to make plans.
-
-- Dr. Love will respond with "OK" and temporarily excuse you from things until **you** send a "re-connection" email to make plans for making up the work you missed, at which time he'll evaluate the situation and together you can make that plan. At no time do you owe us any information about your health or the nature of the emergency.
-
-If you need to miss a class session, or even two, just review the materials and move on, and please feel encouraged to ask for help.
 
 # Getting Started
 
@@ -96,7 +59,7 @@ Most of you have already accessed [the pre-class website](https://431-2021-precl
 
 1. Register and enroll in the course via the [CWRU Student Information System (SIS)](https://sis.case.edu/).
     - Note that PQHS 431, CRSP 431 and MPHP 431 are all identical.
-2. Review [the pre-class website](https://431-2021-preclass-love.netlify.app/) and this syllabus. The most important needs initially are completing the [Welcome to 431 survey](https://bit.ly/431-2021-welcome-survey), obtaining [the books][Required Texts] you'll need, and [the software][Getting the Software] you'll need to install. 
+2. Review [the pre-class website](https://431-2021-preclass-love.netlify.app/) closely. The most important needs initially are completing the [Welcome to 431 survey](https://bit.ly/431-2021-welcome-survey), obtaining [the books][Required Texts] you'll need, and [the software][Getting the Software] you'll need to install. 
 3. Review [CWRU's Knowledge Base for Zoom](https://case.edu/utech/help/knowledge-base/zoom/zoom-information) to ensure you can join office hours (once they begin) through your CWRU Zoom account. 
 
 ## What Do I Need To Buy?
@@ -125,10 +88,10 @@ Once the course begins, you have several ways to get help from us:
 
 - We will use [Piazza](https://piazza.com/case/fall2021/pqhs431/home) this semester to facilitate questions and answers. We'll be conducting all class-related discussion there, instead of via email.
 - Find our class page at: https://piazza.com/case/fall2021/pqhs431/home. If you're successfully enrolled in the class, you should be able to sign up immediately.
-  - The quicker you begin asking questions on Piazza (rather than via emails), the quicker you'll benefit from the collective knowledge of your classmates and instructors. 
-  - We encourage you to ask questions when you're struggling to understand anything related to the class, and you can even do so anonymously.
-  - You'll also be able to help your colleagues by answering their questions, as well.
-  - We will use Piazza for all questions **except** questions about [Quizzes][Quizzes]. We'll give you special instructions for Quizzes.
+    - The quicker you begin asking questions on Piazza (rather than via emails), the quicker you'll benefit from the collective knowledge of your classmates and instructors. 
+    - We encourage you to ask questions when you're struggling to understand anything related to the class, and you can even do so anonymously.
+    - You'll also be able to help your colleagues by answering their questions (and you'll get some class participation credit for doing so), as well.
+    - We will use Piazza for all questions **except** questions about [Quizzes][Quizzes]. We'll give you special instructions for Quizzes.
 
 In addition, there are many, many online resources to help you learn R beyond those we provide. 
 
@@ -138,14 +101,15 @@ In addition, there are many, many online resources to help you learn R beyond th
 ## Virtual TA Office hours provide one-on-one help
 
 You are strongly encouraged to visit TAs during office hours that are convenient for you, whenever you need help with the course. This is the best way to get one-on-one help, or try out a new idea. 
+
 - Teaching Assistant (TA) office hours will be held via Zoom, beginning 2021-08-29. 
-  - A schedule will be found on the [Course Calendar](https://thomaselove.github.io/431/calendar.html).
-  - Office Hours are held for your benefit. Please visit the TAs, especially if you have questions about how to do things in R, or about the content of the class slides or course notes. They're volunteering their time to help you, and most of them have been in your shoes in previous years. They want to help you!
-  - More [information on the TAs is posted below][Teaching Assistants].
+- A schedule will appear on the [Course Calendar](https://thomaselove.github.io/431/calendar.html).
+- Office Hours are held for your benefit. Please visit the TAs, especially if you have questions about how to do things in R, or about the content of the class slides or course notes. They're volunteering their time to help you, and most of them have been in your shoes in previous years. They want to help you!
+- More [information on the TAs is posted below][Teaching Assistants].
 
 ## Meeting with Professor Love
 
-Professor Love does not hold regular office hours. He will arrive 15 minutes before each class, and stay afterwards, as well, to address any student concerns that you're willing to discuss there.
+Professor Love does not hold regular office hours. He will arrive 10 minutes before each class, and stay afterwards, as well, to address any student concerns that can be addressed in that setting.
 
 - If you have any unique concerns about the course, need special accommodations or have any other issues you want to discuss with Professor Love specifically, please email him (**Thomas dot Love at case dot edu**) and he'll respond as quickly as possible.
 - Remember that questions about course materials are best asked through [Piazza](https://piazza.com/case/fall2021/pqhs431/home) or at TA Office Hours.
@@ -155,9 +119,47 @@ Professor Love does not hold regular office hours. He will arrive 15 minutes bef
 We'll use the Canvas platform for (only) two things:
 
 - turning in assignments
-- providing information about (and maintaining recordings of) our Zoom sessions, as they occur. While almost all class sessions will be conducted in person, we will also provide you with some Zoom recordings at this link for special sessions.
+- providing information about (and maintaining recordings of) our Zoom sessions, as they occur. While the plan is for essentially all class sessions this semester to be conducted in person, we will also provide Zoom recordings for special pre-recorded sessions as they arise.
 
 Visit https://canvas.case.edu/ to log in and see what's available there.
+
+# In Case of Emergency
+
+If you need to miss a class session, or even two, just review the materials and move on, and please feel encouraged to ask for help.
+
+If an emergency arises that will keep you from timely completion of work that has a deadline, like a lab, minute paper, or the like, send an email directly to Dr. Love saying the following:
+
+> I have an emergency that will keep me from completing (*list things you're worried about completing*) in a timely fashion. I will contact you again when I am able to make plans.
+
+- Dr. Love will respond with "OK" and temporarily excuse you from things until **you** send a "re-connection" email to make plans for making up the work you missed, at which time he'll evaluate the situation and together you can make that plan. At no time do you owe us any information about your health or the nature of the emergency.
+
+
+# Learning During a Pandemic
+
+The CWRU Return to Campus website is found at https://case.edu/return-to-campus/.
+
+Life is not "normal" right now. None of us are really okay. We're all just pretending.
+
+You most likely know people who have lost their jobs, have tested positive for COVID-19, have been hospitalized, or perhaps have even died. You all have increased (or possibly decreased) work responsibilities and increased  care responsibilities - you might be caring for extra people (young and/or old!) right now, and you might be facing uncertain job prospects.
+
+I'm fully committed to making sure that you learn everything you were hoping to learn from this class! I will make whatever accommodations I can to help you finish your labs, do well on your quizzes and projects, and learn and understand the class material. Under ordinary conditions, I am somewhat flexible and lenient with grading and course expectations when students face difficult challenges. Under pandemic conditions, that flexibility and leniency is intensified. If you tell me you're having trouble, I will not judge you or think less of you. I hope you'll extend me the same grace.
+
+You never owe me personal information about your health (mental or physical). You are always welcome to talk to me about things that you're going through, though. If I can't help you myself, I may know somebody who can.
+
+If you need extra help, or if you need more time with something, or if you feel like you're behind or not understanding everything, do not suffer in silence! Talk to us! We will work with you. I promise.
+
+I want you to learn lots of things from this class, but I primarily want you to stay healthy, balanced, and grounded during this crisis.
+
+Thanks to [Andrew Heiss](https://econf20.classes.andrewheiss.com/syllabus/#learning-during-a-pandemic) for a lot of the better words here.
+
+## Is COVID-19 part of the class?
+
+The answer is, essentially, no.
+
+Professor Love expects to provide some resources and reactions related to the news on COVID-19 and the presentation of visualizations and models for the pandemic. He may provide you with some links to outside resources, but 
+
+- we will use no COVID-19 data in the course notes for examples, nor in the lab assignments
+- nor will we consider any 431 projects that make use of COVID-19 data.
 
 # Course Description
 
@@ -270,7 +272,7 @@ Thomas E. Love, Ph.D.
 Hi. I am Thomas E. Love, Ph.D. and I have at least three different jobs.
 
 - I am a Professor in the Departments of Medicine and Population & Quantitative Health Sciences at Case Western Reserve University. I teach three courses per year there (PQHS 431, 432 and 500) and also lead the Health Care Analytics track of the MS program in Biostatistics.
-- I direct the Biostatistics and Data Science Division at the Population Health Research Institute and at the [Center for Health Care Research & Policy](http://chrp.org/), which are jointly supported by MetroHealth Medical Center and by CWRU.
+- I direct the [Biostatistics and Data Science Division](https://www.metrohealth.org/population-health-research-institute/biostatistics-and-data-sciences) at the [Population Health Research Institute](https://www.metrohealth.org/population-health-research-institute) and at the Center for Health Care Research & Policy, which are jointly supported by The MetroHealth System and by CWRU.
 - For ten years, I was the (founding) Data Director for [Better Health Partnership](http://betterhealthpartnership.org/), an alliance of people who provide, pay for and receive care in Northeast Ohio. I now serve as Chief Data Scientist there.
 - I am a Fellow of the American Statistical Association, and have won numerous awards for my teaching and my research, including the 2018 [John S. Diekhoff Award for Graduate Teaching](https://students.case.edu/traditions/awards/diekhoff/) from CWRU.
 - I have been teaching at CWRU since 1994, and have taught every manner of CWRU student over the years, especially students in biostatistics, medicine, and management.
@@ -284,26 +286,26 @@ In research, I use statistical methods to look at questions in health policy and
 
 If you want to see a [pretty complete list of my publications](https://www.ncbi.nlm.nih.gov/myncbi/thomas.love.1/bibliography/public/), knock yourself out. 
 
-I hold degrees from Columbia University in the City of New York and from the University of Pennsylvania. My dissertation adviser was Paul Rosenbaum. I am married to a brilliant woman who is an attorney at GE Lighting (a Savant company), and we have two terrific sons, one a senior at the University of Pittsburgh, and the younger starting at Columbia University (but from home, thanks to the pandemic) this Fall. I live in Shaker Heights. I also sing and act occasionally in [community theater](https://github.com/THOMASELOVE/theater), even in the midst of the pandemic.
+I hold degrees from Columbia University in the City of New York and from the University of Pennsylvania. My dissertation adviser was Paul Rosenbaum. I am married to a brilliant woman who is an attorney at GE Lighting (a Savant company), and we have two terrific sons, one a recent graduate of the University of Pittsburgh, and the younger a sophomore at Columbia University this Fall. I live in Shaker Heights. I also sing and act occasionally in [community theater](https://github.com/THOMASELOVE/theater).
 
 ## Email 
 
 - **Thomas dot Love at case dot edu** (for matters related to grades or individual concerns)
-- Professor Love is hard to reach by phone. Email is always the best way to reach him in an emergency.
+- Professor Love best reached via email in an emergency.
 
-## Offices (prior to the pandemic) and Office Hours
+## Offices
 
-- Wood WG-82J on the ground floor of the Wood building (Tuesdays and Thursdays)
-- Rammelkamp R-229A at MetroHealth Medical Center (Wednesdays and Fridays)
+- Wood WG-82J on the ground floor of the Wood building (Tuesday and Thursday afternoons)
+- Rammelkamp R-229A at MetroHealth Medical Center (Fridays)
 
-Now, Professor Love works from his home in Shaker Heights. 
+At other times, Professor Love works from his home in Shaker Heights. 
 
-Professor Love is available for the 15 minutes before and after each class on Zoom, and otherwise by appointment (send email to schedule). 
+Professor Love is available for the 10 minutes before and approximately 20 minutes after each class and otherwise by appointment (send email to schedule). 
 
 ## Name, Pronouns, Social Media
 
 - Professor Love uses he/him/his pronouns, and identifies as male.
-    - Most students refer to him either as Professor Love or Dr. Love, and he prefers this during class.
+    - Most students refer to him either as Professor Love or Dr. Love, and he prefers this in class.
     - He prefers his given name to be written "Thomas" as opposed to "Tom".
     - Most of his friends and colleagues call him "Tom". You are welcome to do so, outside of class time, if it makes you comfortable.
 - At Github, he is [THOMASELOVE](https://github.com/THOMASELOVE).
@@ -409,7 +411,7 @@ Yanning Wu is a first year PhD student in the Epidemiology/Biostatistics program
 
 ## Professor Love's Materials
 
-The main text is a set of Notes for the course, maintained by Professor Love, titled **Data Science for Biological, Medical and Health Research: Notes for PQHS 431.** A link to these notes will be made available to you at the first class. Professor Love revises the Notes every year, and so they will appear in fits and starts as the semester progresses.
+Dr. Love maintains a set of [Course Notes](https://thomaselove.github.io/431-notes/), titled **Data Science for Biological, Medical and Health Research: Notes for 431.** Professor Love revises the Notes every year, and so they appear in pieces as the semester progresses.
 
 Although these Notes share some of the features of a textbook, they are neither comprehensive nor completely original. The main purpose is to give 431 students a set of common materials on which to draw during the course, providing a series of examples using R to work through issues that are likely to come up during the semester, and in later work. 
 
@@ -417,22 +419,24 @@ In addition, **slides** and video recordings from each of Professor Love's lectu
 
 Once class begins, access all materials [at the main course website](https://thomaselove.github.io/431/).
 
-## Two Books To Purchase
+### The Book you need to purchase
 
-As mentioned, we'll read two books you'll need to purchase (combined price is \$18 to \$33):
+During the course, we will read David Spiegelhalter's **The Art of Statistics**, which was first published by Penguin in March 2019 (and February 2020) in the UK and then by Basic Books in the US in September 2019. You can purchase any of the available versions (hard-cover, paperback or e-reader) online or in your local bookstore for about $20.
 
-- David Spiegelhater *The Art of Statistics: How to Learn from Data*, published in the US by Basic Books in 2019, available [at Amazon, for instance](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513), for around \$18 (Kindle) or \$23 (hardcover). 
-    - The [book's website](https://dspiegel29.github.io/ArtofStatistics/) contains R code, corrections and other materials.
-    - Either the UK or US version of the book is fine. From [Dr. Spiegelhalter's website](http://www.statslab.cam.ac.uk/~david/): *The Art of Statistics* is a Pelican book published by Penguin in March 2019 in the UK, and by Basic Books in the US in September 2019: the books are identical apart from the subtitle (the UK subtitle is *Learning from Data*) and cover. The UK Pelican paperback was published in February 2020.
-- Jeffrey Leek, *The Elements of Data Analytic Style*, available at https://leanpub.com/datastyle (minimum price is free, suggested price is $10).
+- [Dr. Spiegelhalter's website](http://www.statslab.cam.ac.uk/~david/) has lots of useful information.
+- The [book's website](https://dspiegel29.github.io/ArtofStatistics/) contains R code, corrections and other materials.
+- You are welcome to read this book before class starts, if you'd like to get a jump on things, but that's not necessary: we'll link readings to the syllabus when that becomes available.
+
+Everything else that you will need is free, and will be described in detail on the main course website once the class begins. Some highlights follow...
 
 ## Three Books to Download
 
-There are three other books that you will definitely want to download during the semester. All are freely available at the links below.
+There are three additional **free** books that you will definitely need to obtain during the semester and may be interested in looking at before class begins. Simply visit the links below.
 
-1. [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
-2. [Biostatistics for Biomedical Research](http://hbiostat.org/doc/bbr.pdf) (pdf) by Frank E. Harrell Jr and James C Slaughter
-3. [Modern Dive: Statistical Inference via Data Science (A Modern Dive into R and the Tidyverse)](https://moderndive.netlify.com/) by Chester Ismay and Albert Y. Kim.
+1. [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by Mine Cetinkaya-Rundel and Johanna Hardin.
+2. [R for Data Science](https://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham.
+3. [Biostatistics for Biomedical Research](http://hbiostat.org/doc/bbr.pdf) (pdf) by Frank E. Harrell Jr and James C Slaughter. This is regularly updated by the authors, as indicated on [their course website](https://hbiostat.org/bbr/), so get the most recent version occasionally.
+
 
 ## Key Articles and Posts
 
@@ -484,13 +488,14 @@ Many of these resources will come up again in class, but no one can keep up with
 
 1. [Cookbook for R](http://www.cookbook-r.com/) by Winston Chang
 2. [Learning Statistics with R](https://learningstatisticswithr.com/) and its [bookdown repository](https://learningstatisticswithr.com/book/index.html) by Danielle Navarro
-3. [R Programming for Data Science](https://leanpub.com/rprogramming) by Roger D. Peng. An earlier edition is available at [bookdown](https://bookdown.org/rdpeng/rprogdatascience/)
-4. [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund
-5. [R Markdown for Scientists](https://rmd4sci.njtierney.com/) by Nicholas Tierney
-6. [R Packages](https://r-pkgs.org/) by Hadley Wickham and Jenny Bryan
-7. [What They Forgot to Teach You About R](https://whattheyforgot.org/) by Jenny Bryan and Jim Hester
-8. [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham (2nd edition)
-9. [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) by Garrett Grolemund
+3. [Modern Dive: Statistical Inference via Data Science (A Modern Dive into R and the Tidyverse)](https://moderndive.netlify.com/) by Chester Ismay and Albert Y. Kim.
+4. [R Programming for Data Science](https://leanpub.com/rprogramming) by Roger D. Peng. An earlier edition is available at [bookdown](https://bookdown.org/rdpeng/rprogdatascience/)
+5. [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund
+6. [R Markdown for Scientists](https://rmd4sci.njtierney.com/) by Nicholas Tierney
+7. [R Packages](https://r-pkgs.org/) by Hadley Wickham and Jenny Bryan
+8. [What They Forgot to Teach You About R](https://whattheyforgot.org/) by Jenny Bryan and Jim Hester
+9. [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham (2nd edition)
+10. [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) by Garrett Grolemund
 
 ## Blogs and Internet Columns
 
@@ -506,7 +511,7 @@ Many of these resources will come up again in class, but no one can keep up with
 
 ## Resources for Learning R
 
-1. I recommend the [Community-Sourced Data Science Guide](https://github.com/Chris-Engelhardt/data_sci_guide) of resources for learning data science.
+1. I recommend the [Community-Sourced Data Science Guide](https://github.com/Chris-Engelhardt/data_sci_guide) to find more resources for learning data science.
     - I no longer support DataCamp, and suggest that you don't, either. See [R-Ladies Global on the matter](https://blog.rladies.org/post/statement-about-datacamp/).
 2. [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) are definitely worth your time. In 431, you'll especially like:
   - Data Transformation with `dplyr`
@@ -620,14 +625,7 @@ If you're interested in getting started with the tools you'll be using in 431 be
 
 Our goal is to get everyone well into the intermediate level by December. Some people will get there in September, for others it will take longer. But you can do this, and we'll be there to help you.
 
-## For those of you worried about coding, software, or R
-
-- There will be many people in the course for whom R is a new experience. I assume no prior R work in the course. You will know a fair amount of R (and some other things, too) after taking the course, though.
-- We'll also be using the R Markdown tool within RStudio. R Markdown will be taught in our class, and can be used to generate reproducible reports that appear as .html files, PDF files or Word documents, among other things.
-- For some people, working with R is the best part of the class, and the part that they're most excited about. 
-- For others, it's a real source of anxiety. We understand and encourage patience. There will definitely be some pain, but our experience is that things are much smoother for most people by early October than they appear to be in August. 
-
-There are many, many online resources to help you with working in R, and we'll point you to many of the best of them during the semester. For now, we suggest those listed above in the Getting Started with R section.
+In addition, there are many, many online resources to help you with working in R, and we'll point you to many of the best of them during the semester. For now, we suggest those listed above in the Getting Started with R section.
 
 # Getting the Software
 
@@ -637,17 +635,25 @@ Everything is free, but it does require some patience to get control over your c
 
 These instructions are also available on [the main course website](https://thomaselove.github.io/431/).
 
-1. Download and install **the latest version of R** (version **4.0.2 or later**) from http://cran.case.edu/ or, if you prefer, from https://cloud.r-project.org which automatically chooses a fast, nearby mirror for you.
+1. Download and install **the latest version of R** (version **4.1.0 or later**) from http://cran.case.edu/ or, if you prefer, from https://cloud.r-project.org which automatically chooses a fast, nearby mirror for you.
     - If you have a pre-existing installation of R and/or RStudio, we highly recommend that you reinstall both to get current.
-2. Download and install **RStudio Desktop** (Open Source Edition - the free version **1.3.1056 or later**) at https://www.rstudio.com/products/rstudio/download/#download. 
+2. Download and install **RStudio Desktop** (Open Source Edition - the free version **1.4.1717 or later**) at https://www.rstudio.com/products/rstudio/download/#download. 
     - If you prefer, you can instead install [RStudio's Preview Version](https://www.rstudio.com/products/rstudio/download/preview/) to get the very latest features, but that requires you to update your setup more frequently, and occasionally deal with some additional troubleshooting. 
     - Dr. Love will stick with the regular open source version in his work for 431.
 3. Install some **R packages** - an R "package" is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work. 
-    - A list of [initial R Packages to install][Initial R Packages to Install] is provided below, along with instructions. A more complete list of packages will be maintained on [the main course website](https://thomaselove.github.io/431/).
-4. **When available**, you will download some data and code (functions) we've developed specifically for 431.
-    - This information will be provided on [the main course website](https://thomaselove.github.io/431/).
+    - Details on installing key packages we will use in 431 are [on the Packages page](packages.html), and that's also where you'll find an updated list of packages you'll need in the course.
+4. Download data and code (functions) we've developed specifically for 431 at https://github.com/THOMASELOVE/431-data.
+    - Follow the instructions you'll find there.
 5. Obtain a free **Github User Account** by visiting https://github.com/ and signing up. 
-    - We urge you to select a Github username that identifies you effectively, and that matches your other professional social media usernames. For instance, Dr. Love uses `THOMASELOVE` on Github and `thomaselove` on Twitter.
+    - We urge you to select a Github username that identifies you effectively, and that matches your other professional social media usernames. For instance, Dr. Love uses `THOMASELOVE` on Github and `ThomasELove` on Twitter.
+
+### Need Installation Help?
+
+If you need more help, you might look at [this terrific resource for Installing R and RStudio](https://stat545.com/install.html) from Jenny Bryan and the STAT 545 project. These are the people responsible for the great [Happy Git with R](http://happygitwithr.com/) project, which will also be worth your time when we are using Git and GitHub.
+
+- If you're having trouble with installation before our first class, don't worry too much. The TAs and Dr. Love will be available to help once the class starts. 
+
+- If you cannot figure things out on your own, or with the help of the resources above, please contact us.
 
 ## Initial R Packages to Install
 
@@ -706,7 +712,7 @@ If you need more help, you might look at [this terrific resource for Installing 
 2. All student work is subject to the University's policies and procedures. 
 3. **Registration is required**. I do not permit anyone to audit the course who has not previously taken it, without exception. If you've taken the course before and want to sit in again, you will need to volunteer or be hired as a teaching assistant.
 4. **Grading**. Students in this class are not in competition with each other for grades. I have no set percentage of students who will receive any particular grade.
-5. **Attendance** is expected, but it is also expected that sometimes life will intervene. All students are expected to view all Zoom class sessions, preferably as they happen live, but if necessary, using the video recordings made available on Canvas to view each class before the next one is given.
+5. **Attendance** is expected, but it is also expected that sometimes life will intervene. All students are expected to attend all class sessions in compliance with University policies.
     - If you need to miss two or more classes in a row, inform Professor Love via email beforehand, or as soon as possible thereafter. I will assume you have a good reason - details are **not** necessary.
     - You are responsible for all missed work, regardless of the reason for your absence. 
 6. **Submissions** In this class, it is far better to turn in timely, but only partially complete work than nothing at all.
@@ -714,8 +720,8 @@ If you need more help, you might look at [this terrific resource for Installing 
 8. **On Getting Help Quickly and Effectively**: In general, we don't have a way to diagnose your problem with R, RStudio or Markdown if you don't show us what you're typing that causes an error, or a lack of results. If you wrote a Markdown file, we need to see it, along with a specific question (or series of them) about specific error messages or strange results you are getting. We need to replicate the problem in order to know how to fix your problem, and it also helps if we know what error message you're seeing, or what strange result you are getting.
 10. **Distractions**. Silence your phone during class. The temptation to look at your phone or Facebook or email during class is nearly irresistible. Resist anyway, if only to avoid distracting your instructor and your fellow students. 
 11. **Research Usage**. Any and all results of in-class and out-of-class assignments and activities are data sources for research and may be used in published research. All such use will always be anonymous.
-12. **Audio-Recording.** It is our intention to provide video recordings of each class after they are complete. You should assume that anything you say or place in the Chat session during a Zoom class session *will* be recorded.
-13. **Typos.** Professor Love makes occasional typographic and grammatical errors, which irritate him enormously. Please post in the relevant section of [Piazza](https://piazza.com/case/fall2021/pqhs431/home) if you find any in this syllabus or any other course materials. If you are the first to let us know, and we make the change, you will receive some credit in your class participation grade.
+12. **Audio-Recording.** It is our intention to provide audio recordings of each class after they are complete. You should assume that anything you say *will* be recorded.
+13. **Typos.** Professor Love makes occasional typographic and grammatical errors, which irritate him enormously. Please post to [Piazza](https://piazza.com/case/fall2021/pqhs431/home) the details of any typos or errors you find in this syllabus or any other course materials. If you are the first to let us know, and we make the change, you will receive some credit in your class participation grade.
 
 Again, all Case Western Reserve University policies apply to this class. To the extent that those policies are unclear, I would regard an appropriate code of conduct as mirroring  [this one from the R Consortium](https://github.com/RConsortium/RCDI-WG/blob/master/conduct/code-of-conduct.md).
 
@@ -739,21 +745,17 @@ It is the natural thing to do. The 431 course is part 1 of a two-semester sequen
 
 ### Do I have to be in Cleveland to take this course?
 
-Not this Fall, no. The course will take place remotely this Fall, using the Zoom platform. 
+Yes, and you should expect to be in the Cleveland area through December 9.
 
 ### Will all class materials be available to me online?
 
-Yes. All sessions will be video-recorded and made available to you after class. All slides and many other materials will also be provided after each class.
+Yes, all slides and many other materials will be provided to you. We hope that at least most class sessions will also be audio-recorded and made available to you after class. 
 
 ### How do I get connected to Zoom through CWRU?
 
-By now, you're probably familiar with Zoom. We ask that you review [the CWRU Knowledge Base for Zoom](https://case.edu/utech/help/knowledge-base/zoom/zoom-information) prior to our first class and be sure that you're ready to join our first class through your CWRU Zoom account.
+By now, you're probably familiar with Zoom. We ask that you review [the CWRU Knowledge Base for Zoom](https://case.edu/utech/help/knowledge-base/zoom/zoom-information) and get familiar with your Zoom account.
 
-Dr. Love will provide the Zoom link for Class 1 to all enrolled students in advance of the first class.
-
-### What if I lose my internet connection during class?
-
-That's part of the reason why each session will be recorded. If Dr. Love loses his, we'll pause until things get straightened out.
+At this point, we anticipate one pre-recorded class (Class 3) which will be delivered using Zoom.
 
 # Deliverables / Assignments
 
@@ -772,11 +774,13 @@ All deadlines for deliverables are posted as part of the Course Calendar, found 
 
 ## Minute Papers (and Class Participation)
 
-During the semester, there are **ten** Minute Papers scheduled. In this class, a Minute Paper is a short survey (completed using a Google Form) where you will answer a few questions about how the course is going for you. To complete the Minute Paper, you'll need to log into Google with your CWRU account. The pre-class survey uses a similar format, but is more extensive than a typical Minute Paper. 
+During the semester, there are **eleven** Minute Papers scheduled. In this class, a Minute Paper is a short survey (completed using a Google Form) where you will answer a few questions about how the course is going for you. To complete the Minute Paper, you'll need to log into Google with your CWRU account. The pre-class survey uses a similar format, but is more extensive than a typical Minute Paper. 
 
 Each Minute Paper ideally takes less than five minutes to complete, and is best done right at the end of Tuesday's class. The Minute Papers are actually due at noon Wednesday most weeks to give you some time to reflect, if you'd like, or if you're in a hurry at the end of Tuesday's class.
 
-Students who watch the class via video recording **are still required** to complete the Minute Paper in a timely fashion. You **should** complete the Minute Paper even if you haven't yet viewed the most recent class.
+You **should** complete the Minute Paper even if you weren't able to attend the most recent class.
+
+Professor Love reserves the right to change the number of minute papers depending on how the class is going during the semester. 
 
 ### Grading Class Participation
 
@@ -784,9 +788,9 @@ Only Professor Love sees the results of the Minute Papers with identifying infor
 
 Student Class Participation grades are determined by Dr. Love out of a maximum of 100 points. This determination is based on:
 
-- 45 points for completing the [431 welcome survey](https://bit.ly/431-2021-welcome-survey) that most of you did prior to class, and if you haven't done it, please do so now.
-- plus up to 40 additional points for Minute Paper responses (4 points for each on-time submission)
-- plus up to 20 bonus points for actions that help the class, as awarded during the semester
+- 25 points for completing the [Welcome to 431  survey](https://bit.ly/431-2021-welcome-survey) that most of you did prior to class, and if you haven't done it, please do so now.
+- plus up to 55 additional points for Minute Paper responses (5 points for each on-time submission)
+- plus up to 25 bonus points for actions that help the class, as awarded during the semester
 
 These bonus points have a small impact, generally, but include things like:
 
@@ -802,51 +806,56 @@ Thanks to the bonus, scores up to 105 / 100 in Class Participation are technical
 
 We cannot emphasize enough how much we want to hear from you about things that are relevant to this course. 
 
-1. If you're not shy, ask questions in the Chat during class. Come to the (virtual) TA office hours if you need help.
+1. If you're not shy, ask questions during class. Come to the (virtual) TA office hours if you need help.
 2. Contribute to [Piazza](https://piazza.com/case/fall2021/pqhs431/home) with questions, answers and helpful comments. That'll help us recognize you as someone trying to improve their understanding.
   - If you find **typos** in the materials (code, slides, the Notes, this syllabus) send them to us on [Piazza](https://piazza.com/case/fall2021/pqhs431/home). 
   - See a cool visualization online (of anything other than COVID-19 data)? A nice use of statistical methods or design in a paper? Share them with us on [Piazza](https://piazza.com/case/fall2021/pqhs431/home).
 3.  Email Dr. Love if you want to discuss something that doesn't fit on Piazza or in a conversation with a TA. Visit with him before or after class. Make an appointment to talk with him if you have something to discuss that doesn't work well in email. 
-  - It's always helpful if Dr. Love knows who you are, and this is an especially difficult thing to achieve this year with a large and remote class.
+  - It's always helpful if Dr. Love knows who you are, and this is an especially difficult thing to achieve this year with a large class just getting used to returning to in-person classwork.
 
 ## Labs
 
 During the semester, there are **eight** lab assignments scheduled. Professor Love reserves the right to change the number of labs depending on how the class is going during the semester. 
 
 - Most require straightforward demonstrations of mastery for core principles and fundamental skills. Some require deeper dives into more technically sophisticated material. 
-- Most labs ask you to clean/visualize/analyze some data that we provide to you, and also to react to something we're reading at the same time in the Spiegelhalter or Leek books. 
+- Most labs ask you to clean/visualize/analyze some data that we provide to you, and also to react to something we're reading at the same time in the Spiegelhalter book. 
 - You should anticipate that some coding in R **and** writing at least one essay will be required in most labs.
 
 Each lab includes instructions as to how to make your submission, usually through [Canvas](https://canvas.case.edu). The course's primary listing on Canvas is PQHS 431, but students in CRSP 431 and MPHP 431 should find the same information. The link to post your responses for each Lab will appear in time for you to submit the work, usually just after the deadline for the preceding Lab has passed. 
 
 Each lab is associated with a deadline. Late work is permitted, but penalized (see the Grading section below.)
 
+### Lab X
+
+There are seven main Labs (labeled Lab 01 - Lab 07) and an additional assignment called Lab X which involves building a website for yourself. See the Lab X instructions for more details.
+
 ### A few tips for Early Lab Work
 
 1. When writing anything for this course in English, use complete sentences, not just bullet points.
 2. Clearly mark each Question in each Lab. There is no need to repeat the question before answering it, although you are welcome to do so.
-3. Read and heed the advice of Jeff Leek in *The Elements of Data Analytic Style*. Chapters 5, 9, 10 and 13 of that book are especially relevant to our early Labs.
-4. You are welcome to discuss each Lab with anyone, including Professor Love, the teaching assistants, or your colleagues, but your answer must be prepared by you alone. We especially encourage you to take advantage of TA office hours and [Piazza](https://piazza.com/case/fall2021/pqhs431/home).
-5. In general, we do not guarantee to provide answers to questions that we receive in the last 12 hours before a Lab is due, especially once we've gotten into mid-September. So don't leave anything until the last day. Allow time for computer problems.
+3. You are welcome to discuss each Lab with anyone, including Professor Love, the teaching assistants, or your colleagues, but your answer must be prepared by you alone. We especially encourage you to take advantage of TA office hours and [Piazza](https://piazza.com/case/fall2021/pqhs431/home).
+4. In general, we do not guarantee to provide answers to questions that we receive in the last 12 hours before a Lab is due, especially once we've gotten into mid-September. So don't leave anything until the last day. Allow time for computer problems.
 
 More information (and the actual Lab assignments) will be found on [our main course web site](https://thomaselove.github.io/431/).
 
 ### Grading Labs
 
-Labs are graded by the Teaching Assistants, according to the rubric and answer sketch. Everything counts, including the quality of the presentation, as well as the coding and statistical work.
+The seven Main Labs are graded by the Teaching Assistants, according to the rubric and answer sketch. Unless otherwise indicated, everything counts, including the quality of the presentation, as well as the coding and statistical work.
 
-For each Lab, we publish a detailed answer sketch (within 24 hours of the deadline). Later, when the grades become available (roughly one week after the deadline) you will also receive the grading rubric used by the teaching assistants. You should expect to receive your grade on each Lab you submit on time roughly one week after the deadline. Along with the grade, on-time labs will receive modest feedback about the work.
+For each of these 7 Labs, we publish a detailed answer sketch (within 48 hours of the deadline). Later, when the grades become available (roughly one week after the deadline) you will also receive the grading rubric used by the teaching assistants. You should expect to receive your grade on each Lab you submit on time roughly one week after the deadline. Along with the grade, on-time labs will receive modest feedback about the work.
 
 - Labs received on time can receive up to 100% of the available points for the lab.
 - Labs received after the deadline but before the answer sketch is published can receive up to 90% of available points.
 - Lab submissions received after the answer sketch is published but still within one week of the deadline can receive up to 75% of available points.
 - Lab submissions received more than one week after the deadline will not be graded.
 
-Your lowest **two** lab scores over the course of the semester will be dropped before we calculate your grade on labs. 
+Your lowest lab score (out of the first 7) over the course of the semester will be dropped before we calculate your grade on labs. 
 
-- As a result, you can skip up to two labs during the semester without penalty.
+- As a result, you can skip one lab during the semester without penalty.
 - If you decide to skip a lab, please submit a note to Canvas by the deadline saying that you are skipping the lab.
-- Should you run the risk of needing to miss more than two labs during the semester, contact Dr. Love via email.
+- Should you run the risk of needing to miss more than one lab during the semester, contact Dr. Love via email.
+
+Grading for Lab X will be discussed in the Lab X instructions.
 
 ### Appeal Policy - Request a Review in December!
 
@@ -854,7 +863,7 @@ Clarification of concerns related to potential typographical or other errors in 
 
 Should you receive a lower grade on a Lab than you feel you deserve based on the feedback the TA provides, the answer sketch and the grading rubric, you can submit a request for a regrade by Professor Love by submitting a request through a Google Form he will provide to you.
 
-- On the course's Labs page, we include a section about Grading Errors and Regrade Requests. There, you'll find a link to a Google form (you must log into Google via CWRU to see it) listing all of the Labs. Any student who wishes to dispute points can specify the number of points in question for each item, and the details of the issues that concern them. 
+- On [the course's Labs page](https://github.com/THOMASELOVE/431-2021/tree/main/labs), we include a section about Grading Errors and Regrade Requests. There, you'll find a link to a Google form (you must log into Google via CWRU to see it) listing all of the Labs. Any student who wishes to dispute points can specify the number of points in question for each item, and the details of the issues that concern them. 
     - If you wish to dispute a grade, just fill out the form at any time before the deadline in December. You can edit the form after submitting it so that you can add additional requests up until the end of the semester.
     - All forms must be submitted by the deadline in December specified on the Course Calendar.
     - Disputing a grade on a homework with a teaching assistant is pointless. 
@@ -869,9 +878,11 @@ The main advantage of this system is that it saves all of us the hassle of haggl
 
 ## Quizzes
 
-During the semester, you will have two quizzes to complete. Each quiz is taken online via a Google Form (like the Minute Papers or the [Welcome to 431 survey](https://bit.ly/431-2021-welcome-survey).) Each quiz includes both short-answer and multiple-choice items. The quizzes focus on whether you can apply the tools developed in class to address small problems.
+During the semester, you will have three quizzes to complete. See the [Course Calendar](https://thomaselove.github.io/431/calendar.html) for deadlines, and the [Course Quiz page](https://github.com/THOMASELOVE/431-2021/tree/main/quizzes) for other details.
 
-You will typically receive access to the quiz 4 days before it is due, and each quiz will be designed to take 4-6 hours to complete, so the time pressure should be minimal. **If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible**, at least a week before a Quiz is released.
+Each quiz is taken online via a Google Form (like the Minute Papers or the [Welcome to 431 survey](https://bit.ly/431-2021-welcome-survey).) Each quiz includes both short-answer and multiple-choice items. The quizzes focus on whether you can apply the tools developed in class to address small problems.
+
+You will typically receive access to the quiz a few days before it is due, and each quiz will be designed to take 4-6 hours to complete, so the time pressure should be minimal. **If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible**, at least a week before a Quiz is released. 
 
 ### Piazza and the Quizzes
 
@@ -881,7 +892,7 @@ As we've discussed, for most of the course, [Piazza](https://piazza.com/case/fal
 
 ### About the Quizzes
 
-1. Quizzes typically involve 20-40 questions. 
+1. Quizzes typically involve 20-30 questions. 
 2. The questions are not arranged in any particular order, and you should answer all questions.
 3. All questions involve relatively short responses, sometimes after working through a detailed analysis.
 4. You will have the opportunity to edit your responses after completing the Quiz, but this must be completed by the deadline.
@@ -898,18 +909,16 @@ For more information on the Quizzes, please visit [our main course web site](htt
 
 Each quiz will be graded solely by Dr. Love. A detailed answer sketch and grading rubric will be provided to you when grades are available, usually within 48 hours of the quiz deadline. 
 
-In calculating your quiz average for your course grade, he will weight your stronger Quiz performance at 60% and your weaker one at 40%.
-
-Should you need to miss a Quiz, the other Quiz will count for all of the Quiz component of your course grade, and will automatically make the Quiz element your "Weight 3" element in determining your final course average. (See the [Grading Breakdown][Grading Breakdown] section below for details.)
+In calculating your quiz average for your course grade, he will weight your strongest Quiz performance at 40% and your other two Quizzes at 30% each.
 
 ## Projects
 
 During the semester, you will have two projects to complete. 
 
-- Project A anticipates you using materials from the first 12 classes.
-- Project B anticipates you using materials from the first 24 classes.
+- Project A anticipates you using materials from the first 17 classes.
+- Project B anticipates you using materials from all 27 classes.
 
-For more information on the Projects, please visit [our main course web site](https://thomaselove.github.io/431/).
+For more information on the Projects, please visit the Assignments section of  [our main course web site](https://thomaselove.github.io/431/).
 
 ### Grading the Projects
 
@@ -931,8 +940,6 @@ Grading standards apply in the same way for all students, regardless of whether 
 
 The course grade is based on four key areas of demonstrated accomplishment. 
 
-The Fall 2021 version of the 431 course will be graded differently than previous versions of this course. Across the past five years, no student has received a course grade other than A, B or Incomplete, and I anticipate that this will again be the case this year.
-
 Course grades are based primarily on performance on labs, projects and quizzes. Your grade on each of these three elements will be determined separately. Then I will combine these elements as follows:
 
 Element | Weight 1 | Weight 2 | Weight 3 | Weight 4
@@ -946,11 +953,11 @@ Among Labs, Projects and Quizzes, your element with the strongest score will rec
 
 I will determine your final course grade using the following scale:
 
-- course averages of 89% to 100% will receive a A
-- course averages of 85% to 88% will be reviewed more closely to determine whether the grade will be A or B
-- course averages of 70% to 84% will receive a B
+- course averages of 89.0% to 100% will receive a A
+- course averages of 85.0% to 88.9% will be reviewed more closely to determine whether the grade will be A or B
+- course averages of 70.0% to 84.9% will receive a B
 
-For students in the 85-88% range, students who have improved from the first half of the course to the second will be more likely to receive an A than those whose performance has declined. 
+For students in the 85.0-88.9% range, students who have improved from the first half of the course to the second will be more likely to receive an A than those whose performance has declined. 
 
 Students whose course average is near or below 70% will usually need to take an Incomplete to improve their work before I assign a final grade.
 
