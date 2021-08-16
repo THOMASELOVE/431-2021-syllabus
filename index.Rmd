@@ -95,7 +95,7 @@ Once the course begins, you have several ways to get help from us:
 
 In addition, there are many, many online resources to help you learn R beyond those we provide. 
 
-  - Googling effectively is an important skill that requires practice. Don't be afraid to use search engines to figure out how to code things in R, for example.
+  - Building internet searches ("googling") effectively is an important skill that requires practice. Don't be afraid to use search engines to figure out how to code things in R, for example.
   - The [RStudio Community](https://community.rstudio.com/) is a forum specifically designed for people using RStudio and the tidyverse (and that will be you.)
 
 ## Virtual TA Office hours provide one-on-one help
@@ -636,7 +636,7 @@ Everything is free, but it does require some patience to get control over your c
 These instructions are also available on [the main course website](https://thomaselove.github.io/431/).
 
 1. Download and install **the latest version of R** (version **4.1.0 or later**) from http://cran.case.edu/ or, if you prefer, from https://cloud.r-project.org which automatically chooses a fast, nearby mirror for you.
-    - If you have a pre-existing installation of R and/or RStudio, we highly recommend that you reinstall both to get current.
+    - If you have a pre-existing installation of R and/or RStudio, we highly recommend that you re-install both to get current.
 2. Download and install **RStudio Desktop** (Open Source Edition - the free version **1.4.1717 or later**) at https://www.rstudio.com/products/rstudio/download/#download. 
     - If you prefer, you can instead install [RStudio's Preview Version](https://www.rstudio.com/products/rstudio/download/preview/) to get the very latest features, but that requires you to update your setup more frequently, and occasionally deal with some additional troubleshooting. 
     - Dr. Love will stick with the regular open source version in his work for 431.
