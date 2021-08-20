@@ -21,6 +21,7 @@ email
 offices
 name-pronouns-social-media
 teaching-assistants
+ta-office-hours
 getting-to-know-the-tas
 required-texts
 professor-loves-materials

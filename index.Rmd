@@ -332,6 +332,25 @@ The Fall 2021 Teaching Assistants for 431 are:
 - [Dipak Upadhyaya][Dipak Upadhyaya], PhD student in Biomedical Health Informatics
 - [Yanning Wu][Yanning Wu], PhD student in Epidemiology \& Biostatistics
 
+## TA office hours
+
+TA office hours are held via Zoom, will begin on 2021-08-29 and end on 2021-12-05. Here is the weekly schedule, which can also be found on the [Contact Us](https://thomaselove.github.io/431/contact.html) page and on the [Course Calendar](https://thomaselove.github.io/431/calendar.html).
+
+Day | TA Office Hours
+---: | :-----------------
+Sundays | 11:00 AM - 12 noon, 5:30 - 7 PM, 8:30 - 10 PM
+Mondays | 11:30 AM - 1 PM, 5 - 6:30 PM, 7 - 8:30 PM
+Tuesdays | 
+Wednesdays | 5 - 6:30 PM, 8:30 - 10 PM
+Thursdays | 5:30 - 7 PM
+Fridays | 12 noon - 1 PM
+Saturdays | 2 - 3:30 PM
+
+- TA office hours are cancelled from 2021-11-20 through 2021-11-26 (Thanksgiving break.)
+- Zoom links to TA office hours will appear in the [Announcements section on Canvas](https://canvas.case.edu) by 2021-08-27.
+
+Dr. Love will also hold "office hours" before and after each class to the extent possible.
+
 ## Getting To Know The TAs
 
 #### Stephanie Merlino Barr {-}
