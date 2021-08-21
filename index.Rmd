@@ -50,6 +50,7 @@ This includes everything you need for the course, including links to:
 - Readings and Supplemental Materials that we'll review during the course
 - Our [Piazza discussion forum](https://piazza.com/case/fall2021/pqhs431/home) for questions and answers
 - Our [Canvas page](https://canvas.case.edu) for turning in assignments and downloading recordings.
+- A [Contact Us page](https://thomaselove.github.io/431/contact.html) where you can get complete information about how to get help in this course from Dr. Love and the Teaching Assistants.
 
 # Getting Started
 
@@ -103,7 +104,7 @@ In addition, there are many, many online resources to help you learn R beyond th
 You are strongly encouraged to visit TAs during office hours that are convenient for you, whenever you need help with the course. This is the best way to get one-on-one help, or try out a new idea. 
 
 - Teaching Assistant (TA) office hours will be held via Zoom, beginning 2021-08-29. 
-- A schedule will appear on the [Course Calendar](https://thomaselove.github.io/431/calendar.html).
+- The schedule for TA office hours appears on the [Course Calendar](https://thomaselove.github.io/431/calendar.html), and on our [Contact Us](https://thomaselove.github.io/431/contact.html) page.
 - Office Hours are held for your benefit. Please visit the TAs, especially if you have questions about how to do things in R, or about the content of the class slides or course notes. They're volunteering their time to help you, and most of them have been in your shoes in previous years. They want to help you!
 - More [information on the TAs is posted below][Teaching Assistants].
 
@@ -334,17 +335,7 @@ The Fall 2021 Teaching Assistants for 431 are:
 
 ## TA office hours
 
-TA office hours are held via Zoom, will begin on 2021-08-29 and end on 2021-12-05. Here is the weekly schedule, which can also be found on the [Contact Us](https://thomaselove.github.io/431/contact.html) page and on the [Course Calendar](https://thomaselove.github.io/431/calendar.html).
-
-Day | TA Office Hours
----: | :-----------------
-Sundays | 11:00 AM - 12 noon, 5:30 - 7 PM, 8:30 - 10 PM
-Mondays | 11:30 AM - 1 PM, 5 - 6:30 PM, 7 - 8:30 PM
-Tuesdays | 
-Wednesdays | 5 - 6:30 PM, 8:30 - 10 PM
-Thursdays | 5:30 - 7 PM
-Fridays | 12 noon - 1 PM
-Saturdays | 2 - 3:30 PM
+TA office hours are held via Zoom, will begin on 2021-08-29 and end on 2021-12-05. The weekly schedule is found on the [Contact Us](https://thomaselove.github.io/431/contact.html) page and on the [Course Calendar](https://thomaselove.github.io/431/calendar.html).
 
 - TA office hours are cancelled from 2021-11-20 through 2021-11-26 (Thanksgiving break.)
 - Zoom links to TA office hours will appear in the [Announcements section on Canvas](https://canvas.case.edu) by 2021-08-27.
