@@ -1006,7 +1006,7 @@ The [University Resources for Student Support][University Resources for Student 
 5. Make your work easy to evaluate. In responding to an assignment, be sure to answer the question that was asked, restating it as necessary. 
 6. Clearly label everything: graphs, tables, your answer to a specific question. Everything. Again, make your work easy to evaluate. 
 7. Simplify. Emphasize ideas in plain language. Avoid jargon. Use English well.
-8. Data are plural. Use "the data **are** ..." rather than ``the data *is* ... ''
+8. Data are plural. Use "the data **are** ..." rather than "the data *is* ..."
 9. A paragraph must contain more than one sentence.  
 10. Don't switch tenses. If you want to write in the present tense, stick to it throughout.
 11. Don't write or say random sample unless you used a random number generator.  If you used haphazard sampling or convenience sampling, call it what it is, and indicate whether any problems could have cropped up as a result. 
