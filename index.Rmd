@@ -407,7 +407,7 @@ Monika Strah is a second year student in the MS Biostatistics program. Monika's 
 knitr::include_graphics("images/Dipak_Upadhyaya.png")
 ```
 
-Dipak Upadhyaya is a second-year Ph.D. student in Biomedical & Health Informatics. He holds a Master in Public Health degree from Tribhuvan University, Nepal. Before joining CWRU, Dipak worked in academia for 3 years. Dipak took 431 and 432 this past year and is eager to apply his skills in his research projects. His current research interests are in big data analytics and machine learning. He enjoys hiking and spending time with my family.
+Dipak Upadhyaya is a second-year Ph.D. student in Biomedical & Health Informatics. He holds a Master in Public Health degree from Tribhuvan University, Nepal. Before joining CWRU, Dipak worked in academia for 3 years. Dipak took 431 and 432 this past year and is eager to apply his skills in his research projects. His current research interests are in big data analytics and machine learning. He enjoys hiking and spending time with his family.
 
 #### Yanning Wu {-}
 
@@ -415,7 +415,7 @@ Dipak Upadhyaya is a second-year Ph.D. student in Biomedical & Health Informatic
 knitr::include_graphics("images/Yanning_Wu.jpg")
 ```
 
-Yanning Wu is a first year PhD student in the Epidemiology/Biostatistics program. She received my M.S degree in Biostatistics from Brown University in May 2021. She did lots of cancer research in her masters program, especially  lung cancer. My current interests are in epigenetic research. In my spare time, I like K-pop, hiking and swimming.
+Yanning Wu is a first year PhD student in the Epidemiology/Biostatistics program. She received her M.S degree in Biostatistics from Brown University in May 2021. She did lots of cancer research in her masters program, especially lung cancer. Her current interests are in epigenetic research. In her spare time, she likes K-pop, hiking and swimming.
 
 
 # Required Texts
