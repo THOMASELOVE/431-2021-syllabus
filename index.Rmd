@@ -571,7 +571,7 @@ Many of these resources will come up again in class, but no one can keep up with
 
 ## Books on related topics
 
-1. [Broadening Your Statistical Horizons: Generalized Linear Models and Multilevel Models]https://bookdown.org/roback/bookdown-BeyondMLR/) by Paul Roback and Julie Legler
+1. [Broadening Your Statistical Horizons: Generalized Linear Models and Multilevel Models](https://bookdown.org/roback/bookdown-BeyondMLR/) by Paul Roback and Julie Legler
 2. [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf) by Bradley Efron and Trevor Hastie (pdf)
 3. [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 4. [*Statistical Rethinking* with `brms`, `ggplot2` and the tidyverse](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/) by A. Solomon Kurz, building off of Richard McElreath's [*Statistical Rethinking* text](http://xcelab.net/rm/statistical-rethinking/) and [freely-available lectures](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI).
