@@ -724,7 +724,7 @@ If you need more help, you might look at [this terrific resource for Installing 
 3. **Registration is required**. I do not permit anyone to audit the course who has not previously taken it, without exception. If you've taken the course before and want to sit in again, you will need to volunteer or be hired as a teaching assistant.
 4. **Grading**. Students in this class are not in competition with each other for grades. I have no set percentage of students who will receive any particular grade.
 5. **Attendance** is expected, but it is also expected that sometimes life will intervene. All students are expected to attend all class sessions in compliance with University policies.
-    - If you need to miss two or more classes in a row, inform Professor Love via email beforehand, or as soon as possible thereafter. I will assume you have a good reason - details are **not** necessary.
+    - If you need to miss **more than two** classes in a row, inform Professor Love via email beforehand, or as soon as possible thereafter. I will assume you have a good reason - details are **not** necessary.
     - You are responsible for all missed work, regardless of the reason for your absence. 
 6. **Submissions** In this class, it is far better to turn in timely, but only partially complete work than nothing at all.
 7. **Feedback on assignments - deadline.** On every assignment, Lab, Quiz, project-related task, whatever, we will be delighted to respond to questions **up to 12 hours before** the assignment is due. After that time, you may wind up on your own. The reason for this is that Professor Love and the teaching assistants will regularly post responses to frequently asked questions about assignments, and we need sufficient time to accomplish this task.
