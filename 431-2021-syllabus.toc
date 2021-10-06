@@ -83,10 +83,10 @@
 \contentsline {subsection}{\numberline {13.3.4}Appeal Policy - Request a Review in December!}{61}{subsection.13.3.4}
 \contentsline {section}{\numberline {13.4}Quizzes}{62}{section.13.4}
 \contentsline {subsection}{\numberline {13.4.1}Piazza and the Quizzes}{62}{subsection.13.4.1}
-\contentsline {subsection}{\numberline {13.4.2}About the Quizzes}{62}{subsection.13.4.2}
+\contentsline {subsection}{\numberline {13.4.2}About the Quizzes}{63}{subsection.13.4.2}
 \contentsline {subsection}{\numberline {13.4.3}Grading the Quizzes}{63}{subsection.13.4.3}
 \contentsline {section}{\numberline {13.5}Projects}{63}{section.13.5}
-\contentsline {subsection}{\numberline {13.5.1}Grading the Projects}{63}{subsection.13.5.1}
+\contentsline {subsection}{\numberline {13.5.1}Grading the Projects}{64}{subsection.13.5.1}
 \contentsline {chapter}{\numberline {14}Determining Course Grades}{65}{chapter.14}
 \contentsline {section}{\numberline {14.1}Grading Breakdown}{65}{section.14.1}
 \contentsline {chapter}{\numberline {15}On Writing, Presenting \& Communicating}{67}{chapter.15}
